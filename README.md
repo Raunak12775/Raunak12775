@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Raunak I am doing my Phd in Theoretical Chemistry I work in the following languages
+I am Raunak I am doing my Phd.
 
 ### Languages and Tools
 
