@@ -2,7 +2,7 @@
 
 Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My work involves molecules in extreme magnetic field.
 
-> extreme = beyond $ 10^6 $ Tesla 
+> extreme = beyond $`10^6`$ Tesla 
  
 ### Languages and Tools
 
