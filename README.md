@@ -4,7 +4,6 @@ Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My wor
 
 > extreme = beyond $`10^6`$ Tesla
 
-The hamiltonian looks like following
 ```math
 \hat{H} = \hat{T} + \hat{V} + \frac{1}{8}\times B^2 \times(x^2 + y^2 ) + B\times \hat{L}_z
 ```
