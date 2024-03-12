@@ -40,6 +40,6 @@ Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My wor
 [git-img]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white
 [git-url]: https://git-scm.com
 
-[quarto-img]: https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
+[quarto-img]: https://img.shields.io/badge/Quarto-blue
 [quarto-url]: https://quarto.org
 
