@@ -15,10 +15,9 @@ Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My wor
 [![fortran][fortran-img]][fortran-url]
 [![cpp][cpp-img]][cpp-url]
 [![latex][latex-img]][latex-url]
+[![quarto][quarto-img]][quarto-url]
 [![bash][bash-img]][bash-url]
 [![git][git-img]][git-url]
-[![github][github-img]][github-url]
-[![gitlab][gitlab-img]][gitlab-url]
 
 [julia-img]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white
 [julia-url]: https://julialang.org
@@ -41,9 +40,6 @@ Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My wor
 [git-img]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white
 [git-url]: https://git-scm.com
 
-[github-img]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
-[github-url]: https://github.com
-
-[gitlab-img]: https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
-[gitlab-url]: https://gitlab.com
+[quarto-img]: https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
+[quarto-url]: https://quarto.org
 
