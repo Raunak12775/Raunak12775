@@ -18,6 +18,8 @@ Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My wor
 [![quarto][quarto-img]][quarto-url]
 [![linux][linux-img]][linux-url]
 [![cmake][cmake-img]][cmake-url]
+[![typst][typst-img]][typst-url]
+
 
 [fortran-img]: https://img.shields.io/badge/Fortran-641975?style=flat&logo=fortran&logoColor=white
 [fortran-url]: https://fortran-lang.org/
@@ -43,4 +45,5 @@ Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My wor
 [cmake-img]: https://img.shields.io/badge/CMake-forestgreen?style=flat&logo=cmake
 [cmake-url]: https://cmake.org/
 
-
+[typst-img]: https://img.shields.io/badge/Typst-teal?style=flat&logo=typst&logoColor=white&logoSize=auto&labelColor=teal
+[typst-url]: https://typst.app
