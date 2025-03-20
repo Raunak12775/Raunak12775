@@ -5,7 +5,7 @@ Doing my PhD at Humboldt-Universitaet zu Berlin in Theoretical Chemistry. My wor
 > extreme = beyond $`10^6`$ Tesla
 
 ```math
-\hat{H} = \hat{T} + \hat{V} + \frac{1}{8} B^2 (x^2 + y^2 ) + B\times \hat{L}_z
+\hat{H} = \hat{T} + \hat{V} + \frac{1}{8} B^2 (x^2 + y^2 ) + B~\hat{L}_z + B~s_z
 ```
  
 ### Languages and Tools
